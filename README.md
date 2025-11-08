@@ -1,4 +1,4 @@
-![kaishaoshao's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaishaoshao)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaishaoshao) ![kaishaoshao's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaishaoshao) 
 
 <p align="center">
   <a href="https://github.com/kaishaoshao"><img src="https://img.shields.io/badge/GitHub-@kaishaoshao-000000.svg?logo=GitHub" alt="GitHub" target="_blank"></a>
@@ -8,16 +8,4 @@
 </p>
 
 
-<table align="center">
-  <tbody>
-    <tr>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaishaoshao/kaishaoshao/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaishaoshao/kaishaoshao/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaishaoshao/kaishaoshao/output/github-contribution-grid-snake.svg">
-      </picture>
-    </td>
-  </tr>
-</tbody>
-</table>
+![Snake animation](https://github.com/kaishaoshao/kaishaoshao/blob/output/github-contribution-grid-snake.svg)
