@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaishaoshao) ![kaishaoshao's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaishaoshao) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaishaoshao&layout=compact)](https://github.com/kaishashao/github-readme-stats) ![kaishaoshao's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaishaoshao)
 
 <p align="center">
   <a href="https://github.com/kaishaoshao"><img src="https://img.shields.io/badge/GitHub-@kaishaoshao-000000.svg?logo=GitHub" alt="GitHub" target="_blank"></a>
@@ -6,6 +6,5 @@
   <a href="https://space.bilibili.com/407384076?spm_id_from=333.1007.0.0" target="_blank"><img src="https://img.shields.io/badge/B站-@开开心累兮-000000.svg?style=flat-square&logo=Bilibili" alt="B站"/></a>
   <a href="https://blog.csdn.net/m0_53552112?spm=1000.2115.3001.5343" target="_blank"><img src="https://img.shields.io/badge/CSDN-@游天河-000000.svg?style=flat-square&logo=CSDN" alt="CSDN"/></a>
 </p>
-
 
 ![Snake animation](https://github.com/kaishaoshao/kaishaoshao/blob/output/github-contribution-grid-snake.svg)
