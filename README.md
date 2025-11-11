@@ -1,4 +1,17 @@
-![kaishaoshao's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaishaoshao)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaishaoshao&layout=compact)](https://github.com/kaishashao/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaishaoshao" alt="kaishaoshao's GitHub stats" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/kaishashao/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaishaoshao" alt="Top Langs" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaishaoshao" width="100%" alt="Profile Details" />
+</p>
+
 <p align="center">
   <a href="https://github.com/kaishaoshao"><img src="https://img.shields.io/badge/GitHub-@kaishaoshao-000000.svg?logo=GitHub" alt="GitHub" target="_blank"></a>
 <a href="https://www.zhihu.com/people/kai-shao-shao-49" target="_blank" ><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-@王圣颜-000000.svg?style=flat-square&logo=Zhihu" alt="知乎"/></a>
@@ -6,4 +19,6 @@
   <a href="https://blog.csdn.net/m0_53552112?spm=1000.2115.3001.5343" target="_blank"><img src="https://img.shields.io/badge/CSDN-@游天河-000000.svg?style=flat-square&logo=CSDN" alt="CSDN"/></a>
 </p>
 
-![Snake animation](https://github.com/kaishaoshao/kaishaoshao/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/kaishaoshao/kaishaoshao/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
