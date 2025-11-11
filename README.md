@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kaishashao/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaishaoshao" alt="Top Langs" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaishaoshao" width="100%" alt="Profile Details" />
 </p>
 
