@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaishaoshao" alt="kaishaoshao's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaishaoshao" width="100%" alt="Profile Details" />
-</p>
+<img   align="left" src="https://github-readme-stats.vercel.app/api?username=kaishaoshao&locale=cn&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=percentile"/> 
+<img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaishaoshao&locale=cn&line_height=33&theme=radical&langs_count=4"/>
 
 <p align="center">
   <a href="https://github.com/kaishaoshao"><img src="https://img.shields.io/badge/GitHub-@kaishaoshao-000000.svg?logo=GitHub" alt="GitHub" target="_blank"></a>
